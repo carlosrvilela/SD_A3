@@ -1,0 +1,12 @@
+OK       = '1'
+ADD      = '2'
+APPEND   = '3'
+GETVALUE = '4'
+CREATE   = '5'
+STOP     = '6'
+HOST     = '172.31.62.205'	# IP do servidor
+PORT     = 12306		# porta do servidor
+CLIENT1  = 12307		# porta do cliente 1
+CLIENT2  = 12308		# porta do cliente 2
+HOSTCL1  = '172.31.95.14'	# IP cliente 1
+HOSTCL2  = '172.31.91.91'	# IP cliente 2
